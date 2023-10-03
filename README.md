@@ -1,4 +1,4 @@
-- 👋 Hi, I’nm @Myloveson5
+- 👋 Hi, I’m @Myloveson5
 - 👀 I’m interested in python,php,java,oracle database
 - 🌱 I’m currently learning php,javaEE
 - 💞️ I’m looking to collaborate on great team
